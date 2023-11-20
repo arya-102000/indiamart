@@ -1,0 +1,13 @@
+.container{
+    height: 200px;
+    border: 2px solid red;
+    background-color: aquamarine;
+    margin-right:250px ;
+}
+.container-fluid{
+    height: 200px;
+    border: 2px solid red;
+    background-color: aquamarine;
+    
+}
+
